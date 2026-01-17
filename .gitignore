@@ -1,0 +1,4 @@
+data/api_data_*.csv
+data/clean_*.csv
+__pycache__/
+*.pyc
